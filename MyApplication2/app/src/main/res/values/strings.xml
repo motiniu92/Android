@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">My Application</string>
+
+    <string name="offline_message">You are Offline Mode, Confirm Your Internet Connection</string>
+    <string name="WifiMode_message">Wife Enabled</string>
+    <string name="dataNetworkMode_message">Data Network Enabled</string>
+
+</resources>
