@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Tour Mate</string>
+
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="haveyouaccount">Have no account? </string>
+    <string name="singUp"><u> Sing Up</u></string>
+    <string name="bycreating"><b>By creating an account you agree to our Teams &amp;\nConditions and Privacy Policy</b></string>
+
+
+    <string name="alreadyAccount"><b>Already have an account?</b> </string>
+    <string name="singIn"><u> Sing In</u></string>
+
+
+    <string name="input_error_name">Name Empty !</string>
+    <string name="input_error_email">Email Empty !</string>
+    <string name="input_error_password">Password Empty !</string>
+    <string name="input_error_conformPassword">Conform Password Empty !</string>
+    <string name="input_error_More6Characters">password would be upto 6 characters !</string>
+    <string name="input_error_image">Please select an Image !</string>
+    <string name="input_error_not_match">password not match !</string>
+    <string name="input_error_not_email">Invalid Email address !</string>
+
+
+</resources>
