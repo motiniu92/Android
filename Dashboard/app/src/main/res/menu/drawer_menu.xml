@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+  
+    <item
+        android:title="Home"
+        android:id="@+id/homeId"
+
+        />
+
+<!--    <item-->
+<!--        android:title="Single Flexiload"-->
+<!--        android:id="@+id/singleFlexiloadId"-->
+<!--        android:icon="@drawable/ic_baseline_attach_money_24"-->
+<!--        />-->
+
+<!--    <item-->
+<!--        android:title="Buy A Package"-->
+<!--        android:id="@+id/buyAPackageId"-->
+<!--        android:icon="@drawable/packages"-->
+<!--        />-->
+
+<!--&lt;!&ndash;    <item&ndash;&gt;-->
+<!--&lt;!&ndash;        android:title="T &amp; C"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:id="@+id/tcId"&ndash;&gt;-->
+<!--&lt;!&ndash;        android:icon="@drawable/terms"&ndash;&gt;-->
+<!--&lt;!&ndash;        />&ndash;&gt;-->
+
+<!--    <item-->
+<!--        android:title="User Registration"-->
+<!--        android:id="@+id/userRegistrationId"-->
+<!--        android:icon="@drawable/policy"-->
+<!--        />-->
+
+<!--    <item-->
+<!--        android:title="About"-->
+<!--        android:id="@+id/aboutId"-->
+<!--        android:icon="@drawable/about"-->
+<!--        />-->
+
+
+<!--    <item-->
+<!--        android:title="Contact us"-->
+<!--        android:id="@+id/contactUsId"-->
+<!--        android:icon="@drawable/ic_contacts_black_24dp"-->
+<!--        />-->
+
+<!--    <item-->
+<!--        android:title="Logout"-->
+<!--        android:id="@+id/logoutId"-->
+<!--        android:icon="@drawable/ic_power_settings_new_black_24dp"-->
+<!--        />-->
+
+
+
+</menu>
