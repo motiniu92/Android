@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/nameTV"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/name"
+        android:layout_marginTop="80dp"
+        android:padding="2dp"
+        android:layout_marginStart="35dp"
+        android:layout_marginEnd="24dp"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        android:textStyle="bold"
+         />
+
+    <EditText
+        android:id="@+id/nameET"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="24dp"
+        android:inputType="text"
+        android:layout_marginEnd="24dp"
+        android:padding="12dp"
+        android:background="@drawable/button_background_style"/>
+
+
+
+    <TextView
+        android:id="@+id/userIdTV"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/userId"
+        android:layout_marginTop="25dp"
+        android:padding="2dp"
+        android:layout_marginStart="35dp"
+        android:layout_marginEnd="24dp"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        />
+
+    <EditText
+        android:id="@+id/userIdET"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="24dp"
+        android:inputType="number"
+        android:layout_marginEnd="24dp"
+        android:padding="12dp"
+        android:background="@drawable/button_background_style"/>
+
+
+    <Button
+        android:id="@+id/btnSubmit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:layout_marginStart="60dp"
+        android:layout_marginEnd="60dp"
+        android:textStyle="bold"
+        android:textSize="15sp"
+        android:textAlignment="center"
+        android:textAllCaps="false"
+        android:padding="5dp"
+        style="@style/NavyBtn"
+        android:background="@drawable/button_background_style"
+        android:text="@string/submit"/>
+
+    <TextView
+        android:id="@+id/showListTV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="show List"
+        android:layout_marginTop="10dp"
+        android:padding="2dp"
+        android:layout_gravity="center"
+        android:layout_marginStart="35dp"
+        android:layout_marginEnd="24dp"
+        android:textColor="@color/black"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        />
+
+
+
+</LinearLayout>
